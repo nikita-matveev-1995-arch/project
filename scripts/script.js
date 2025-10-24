@@ -1,0 +1,5 @@
+renderAchievements(arr)
+renderFoodTypes(foodTypes)
+renderRecentPosts(recentPosts)
+renderMenuItems(menuItems)
+renderChefs(chefs)
